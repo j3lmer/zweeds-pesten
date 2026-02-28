@@ -11,6 +11,9 @@ vs bot en vs mens mode
 
 je krijgt eerst 6 kaarten in je hand, hiervan moet je 3 opleggen zichtbaar en 3 hou je in je hand
 
-wanneer je alle 3 hebt gekozen gaan de 3 op de grond grayed out en maar een klein beetje boven jouw kaarten, welke schaduw hebben. je kan er op klikken en dan komen ze weer naar boven
+wanneer je alle 3 hebt gekozen gaan de 3 op de grond grayed out en maar een klein beetje boven jouw kaarten, welke schaduw hebben. je kan er op klikken en dan komen ze weer naar boven zodat je ze kan inspecteren. als je vervolgens ergens anders klikt dan gaan ze weer achter je kaarten in je hand zodat je die weer kan zien
+
+
+de speler(s) met de laagste kaart mogen hun best doen om als eerste deze te vinden en op te leggen
 
 
