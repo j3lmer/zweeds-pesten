@@ -1,0 +1,16 @@
+een menu met vs vriend of vs bot
+
+lobby kunnen joinen met een invite code of link
+
+card textures
+1 rij met centered column voor de kaarten opleggen, en een voor weggelegde kaarten
+1 rij voor jouw kaarten op de grond
+1 rij voor de kaarten in je hand
+
+vs bot en vs mens mode
+
+je krijgt eerst 6 kaarten in je hand, hiervan moet je 3 opleggen zichtbaar en 3 hou je in je hand
+
+wanneer je alle 3 hebt gekozen gaan de 3 op de grond grayed out en maar een klein beetje boven jouw kaarten, welke schaduw hebben. je kan er op klikken en dan komen ze weer naar boven
+
+
